@@ -104,3 +104,18 @@ section div p {
     font-size: 25px;
     color: #737272;
 }
+
+/* Road map fo Success section */
+
+.roadmap-of-success-blog{
+    margin: 100px;
+    background-color: #C8E5C7;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.roadmap-of-success-blog-container{
+    padding-left: 30px;
+}
