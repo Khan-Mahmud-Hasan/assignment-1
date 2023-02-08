@@ -28,16 +28,79 @@
     font-size: 65px;
 }
 
-.banner-description{
+.banner-description {
     font-size: 16px;
     padding-top: 10px;
 }
 
-.btn{
+.btn {
     margin-top: 20px;
     border: 0;
     border-radius: 5px;
     color: #005FAC;
     font-size: 20px;
     padding: 14px 12px;
+}
+
+/* article section styles */
+
+.my-failure-blog {
+    margin-top: 100px;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.blog-title {
+    font-weight: 700;
+    font-size: 40px;
+    padding-bottom: 30px;
+}
+
+.blog-description {
+    padding-bottom: 20px;
+    color: #444343;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+ul li {
+    list-style: none;
+    color: #444343;
+    font-size: 16px;
+    line-height: 26px;
+    display: flex;
+}
+
+/* My Plan styles */
+
+.my-plan {
+    margin: 100px 0;
+}
+
+.my-plan-title {
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+}
+
+.my-plan-details {
+    padding: 50px 100px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+}
+
+section div h2 {
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414
+}
+
+section div p {
+    padding-top: 10px;
+    font-size: 25px;
+    color: #737272;
 }
