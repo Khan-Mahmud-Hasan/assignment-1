@@ -107,15 +107,42 @@ section div p {
 
 /* Road map fo Success section */
 
-.roadmap-of-success-blog{
+.roadmap-of-success-blog {
     margin: 100px;
-    background-color: #C8E5C7;
+    background-color: #C2E9C2;
     display: flex;
     gap: 50px;
     justify-content: center;
     align-items: center;
 }
 
-.roadmap-of-success-blog-container{
+.roadmap-of-success-blog-container {
     padding-left: 30px;
+}
+
+/* Positive mind set styles */
+
+.positive-mindset-section {
+    width: 85%;
+    height: 300px;
+    margin-left: 100px;
+    background: linear-gradient(to right, rgba(247, 33, 140, 0.9), rgba(226, 157, 157, 0.678)), url(images/watch.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: overlay;
+    text-align: center;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.mindset-container {
+    padding-left: 30px;
+}
+
+.mindset-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: rgb(49, 51, 211);
 }
