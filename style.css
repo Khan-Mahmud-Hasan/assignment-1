@@ -146,3 +146,20 @@ section div p {
     font-size: 40px;
     color: rgb(49, 51, 211);
 }
+
+/* footer styles */
+
+.footer-section{
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px;
+    padding: 50px;
+}
+.footer-header{
+    padding-bottom: 20px;
+    font-size: 40px;
+
+}
