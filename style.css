@@ -126,7 +126,7 @@ section div p {
     width: 85%;
     height: 300px;
     margin-left: 100px;
-    background: linear-gradient(to right, rgba(247, 33, 140, 0.9), rgba(226, 157, 157, 0.678)), url(images/watch.png);
+    background: linear-gradient(to right, rgba(10, 191, 252, 0.952), rgba(49, 36, 36, 0.678)), url(images/watch.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -134,7 +134,7 @@ section div p {
     text-align: center;
     display: flex;
     justify-content: left;
-    align-items: center;
+    align-items:center;
 }
 
 .mindset-container {
@@ -144,7 +144,7 @@ section div p {
 .mindset-title {
     font-weight: 700;
     font-size: 40px;
-    color: rgb(49, 51, 211);
+    color: rgb(243, 99, 99);
 }
 
 /* footer styles */
@@ -161,5 +161,4 @@ section div p {
 .footer-header{
     padding-bottom: 20px;
     font-size: 40px;
-
 }
